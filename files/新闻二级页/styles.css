@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:300px;
+  width:338px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -12,80 +12,80 @@
   position:absolute;
   z-index:0;
 }
-#u147_img {
+#u144_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:300px;
-  height:527px;
+  width:330px;
+  height:580px;
+}
+#u144 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:330px;
+  height:580px;
+}
+#u144_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u145_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:330px;
+  height:36px;
+}
+#u145 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:574px;
+  width:330px;
+  height:36px;
+}
+#u145_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u146 {
+  border-width:0px;
+  position:absolute;
+  left:8px;
+  top:0px;
+  width:330px;
+  height:613px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
 }
 #u147 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-  width:300px;
-  height:527px;
+  left:42px;
+  top:579px;
+  width:169px;
+  height:28px;
 }
-#u147_text {
-  border-width:0px;
+#u147_input {
   position:absolute;
   left:0px;
   top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u148_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:300px;
-  height:33px;
-}
-#u148 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:522px;
-  width:300px;
-  height:33px;
-}
-#u148_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u149 {
-  border-width:0px;
-  position:absolute;
-  left:7px;
-  top:0px;
-  width:281px;
-  height:522px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
-}
-#u150 {
-  border-width:0px;
-  position:absolute;
-  left:38px;
-  top:526px;
-  width:154px;
-  height:25px;
-}
-#u150_input {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:154px;
-  height:25px;
+  width:169px;
+  height:28px;
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
